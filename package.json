@@ -1,0 +1,25 @@
+{
+  "name": "nodejs-chat-1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./app.js",
+    "dev": "nodemon ./app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MarcosSantana1212/NODEJS-CHAT.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MarcosSantana1212/NODEJS-CHAT/issues"
+  },
+  "homepage": "https://github.com/MarcosSantana1212/NODEJS-CHAT#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "socket.io": "^4.4.0"
+  }
+}
